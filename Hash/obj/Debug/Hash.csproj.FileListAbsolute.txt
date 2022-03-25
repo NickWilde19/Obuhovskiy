@@ -1,0 +1,66 @@
+E:\Тех задания УП март\Hash\bin\Debug\Hash.exe.config
+E:\Тех задания УП март\Hash\bin\Debug\Hash.exe
+E:\Тех задания УП март\Hash\bin\Debug\Hash.pdb
+E:\Тех задания УП март\Hash\bin\Debug\EntityFramework.dll
+E:\Тех задания УП март\Hash\bin\Debug\EntityFramework.SqlServer.dll
+E:\Тех задания УП март\Hash\bin\Debug\EntityFramework.xml
+E:\Тех задания УП март\Hash\bin\Debug\EntityFramework.SqlServer.xml
+E:\Тех задания УП март\Hash\bin\Debug\ru\EntityFramework.resources.dll
+E:\Тех задания УП март\Hash\obj\Debug\Hash.csproj.AssemblyReference.cache
+E:\Тех задания УП март\Hash\obj\Debug\MainWindow.g.cs
+E:\Тех задания УП март\Hash\obj\Debug\App.g.cs
+E:\Тех задания УП март\Hash\obj\Debug\Hash_Content.g.cs
+E:\Тех задания УП март\Hash\obj\Debug\Hash_MarkupCompile.cache
+E:\Тех задания УП март\Hash\obj\Debug\Hash_MarkupCompile.lref
+E:\Тех задания УП март\Hash\obj\Debug\MainWindow.baml
+E:\Тех задания УП март\Hash\obj\Debug\Hash.g.resources
+E:\Тех задания УП март\Hash\obj\Debug\Hash.Properties.Resources.resources
+E:\Тех задания УП март\Hash\obj\Debug\Hash.csproj.GenerateResource.cache
+E:\Тех задания УП март\Hash\obj\Debug\Hash.csproj.CoreCompileInputs.cache
+E:\Тех задания УП март\Hash\obj\Debug\Hash.csproj.CopyComplete
+E:\Тех задания УП март\Hash\obj\Debug\Hash.exe
+E:\Тех задания УП март\Hash\obj\Debug\Hash.pdb
+D:\Study\practice2022\Hash\bin\Debug\Hash.exe.config
+D:\Study\practice2022\Hash\bin\Debug\Hash.exe
+D:\Study\practice2022\Hash\bin\Debug\Hash.pdb
+D:\Study\practice2022\Hash\bin\Debug\EntityFramework.dll
+D:\Study\practice2022\Hash\bin\Debug\EntityFramework.SqlServer.dll
+D:\Study\practice2022\Hash\bin\Debug\EntityFramework.xml
+D:\Study\practice2022\Hash\bin\Debug\EntityFramework.SqlServer.xml
+D:\Study\practice2022\Hash\bin\Debug\ru\EntityFramework.resources.dll
+D:\Study\practice2022\Hash\obj\Debug\Hash.csproj.AssemblyReference.cache
+D:\Study\practice2022\Hash\obj\Debug\MainWindow.g.cs
+D:\Study\practice2022\Hash\obj\Debug\App.g.cs
+D:\Study\practice2022\Hash\obj\Debug\Hash_Content.g.cs
+D:\Study\practice2022\Hash\obj\Debug\Hash_MarkupCompile.cache
+D:\Study\practice2022\Hash\obj\Debug\Hash_MarkupCompile.lref
+D:\Study\practice2022\Hash\obj\Debug\MainWindow.baml
+D:\Study\practice2022\Hash\obj\Debug\Hash.g.resources
+D:\Study\practice2022\Hash\obj\Debug\Hash.Properties.Resources.resources
+D:\Study\practice2022\Hash\obj\Debug\Hash.csproj.GenerateResource.cache
+D:\Study\practice2022\Hash\obj\Debug\Hash.csproj.CoreCompileInputs.cache
+D:\Study\practice2022\Hash\obj\Debug\Hash.exe
+D:\Study\practice2022\Hash\obj\Debug\Hash.pdb
+D:\Study\Учебная практика\кузнецов\Hash\bin\Debug\Hash.exe.config
+D:\Study\Учебная практика\кузнецов\Hash\bin\Debug\Hash.exe
+D:\Study\Учебная практика\кузнецов\Hash\bin\Debug\Hash.pdb
+D:\Study\Учебная практика\кузнецов\Hash\bin\Debug\EntityFramework.dll
+D:\Study\Учебная практика\кузнецов\Hash\bin\Debug\EntityFramework.SqlServer.dll
+D:\Study\Учебная практика\кузнецов\Hash\bin\Debug\EntityFramework.xml
+D:\Study\Учебная практика\кузнецов\Hash\bin\Debug\EntityFramework.SqlServer.xml
+D:\Study\Учебная практика\кузнецов\Hash\bin\Debug\ru\EntityFramework.resources.dll
+D:\Study\Учебная практика\кузнецов\Hash\obj\Debug\Hash.csproj.AssemblyReference.cache
+D:\Study\Учебная практика\кузнецов\Hash\obj\Debug\Hash.csproj.SuggestedBindingRedirects.cache
+D:\Study\Учебная практика\кузнецов\Hash\obj\Debug\MainWindow.g.cs
+D:\Study\Учебная практика\кузнецов\Hash\obj\Debug\App.g.cs
+D:\Study\Учебная практика\кузнецов\Hash\obj\Debug\Hash_Content.g.cs
+D:\Study\Учебная практика\кузнецов\Hash\obj\Debug\Hash_MarkupCompile.cache
+D:\Study\Учебная практика\кузнецов\Hash\obj\Debug\Hash_MarkupCompile.lref
+D:\Study\Учебная практика\кузнецов\Hash\obj\Debug\MainWindow.baml
+D:\Study\Учебная практика\кузнецов\Hash\obj\Debug\Hash.g.resources
+D:\Study\Учебная практика\кузнецов\Hash\obj\Debug\Hash.Properties.Resources.resources
+D:\Study\Учебная практика\кузнецов\Hash\obj\Debug\Hash.csproj.GenerateResource.cache
+D:\Study\Учебная практика\кузнецов\Hash\obj\Debug\Hash.csproj.CoreCompileInputs.cache
+D:\Study\Учебная практика\кузнецов\Hash\obj\Debug\Hash.csproj.CopyComplete
+D:\Study\Учебная практика\кузнецов\Hash\obj\Debug\Hash.exe
+D:\Study\Учебная практика\кузнецов\Hash\obj\Debug\Hash.pdb
