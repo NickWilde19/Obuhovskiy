@@ -1,0 +1,43 @@
+E:\Тех задания УП март\WPF_MVVM\obj\Debug\WPF_MVVM.csproj.AssemblyReference.cache
+E:\Тех задания УП март\WPF_MVVM\obj\Debug\MainWindow.g.cs
+E:\Тех задания УП март\WPF_MVVM\obj\Debug\App.g.cs
+E:\Тех задания УП март\WPF_MVVM\obj\Debug\WPF_MVVM_MarkupCompile.cache
+E:\Тех задания УП март\WPF_MVVM\bin\Debug\WPF_MVVM.exe.config
+E:\Тех задания УП март\WPF_MVVM\bin\Debug\WPF_MVVM.exe
+E:\Тех задания УП март\WPF_MVVM\bin\Debug\WPF_MVVM.pdb
+E:\Тех задания УП март\WPF_MVVM\obj\Debug\MainWindow.baml
+E:\Тех задания УП март\WPF_MVVM\obj\Debug\WPF_MVVM.g.resources
+E:\Тех задания УП март\WPF_MVVM\obj\Debug\WPF_MVVM.Properties.Resources.resources
+E:\Тех задания УП март\WPF_MVVM\obj\Debug\WPF_MVVM.csproj.GenerateResource.cache
+E:\Тех задания УП март\WPF_MVVM\obj\Debug\WPF_MVVM.csproj.CoreCompileInputs.cache
+E:\Тех задания УП март\WPF_MVVM\obj\Debug\WPF_MVVM.exe
+E:\Тех задания УП март\WPF_MVVM\obj\Debug\WPF_MVVM.pdb
+D:\Study\practice2022\WPF_MVVM\bin\Debug\WPF_MVVM.exe.config
+D:\Study\practice2022\WPF_MVVM\bin\Debug\WPF_MVVM.exe
+D:\Study\practice2022\WPF_MVVM\bin\Debug\WPF_MVVM.pdb
+D:\Study\practice2022\WPF_MVVM\obj\Debug\WPF_MVVM.csproj.AssemblyReference.cache
+D:\Study\practice2022\WPF_MVVM\obj\Debug\MainWindow.baml
+D:\Study\practice2022\WPF_MVVM\obj\Debug\MainWindow.g.cs
+D:\Study\practice2022\WPF_MVVM\obj\Debug\App.g.cs
+D:\Study\practice2022\WPF_MVVM\obj\Debug\WPF_MVVM_MarkupCompile.cache
+D:\Study\practice2022\WPF_MVVM\obj\Debug\WPF_MVVM.g.resources
+D:\Study\practice2022\WPF_MVVM\obj\Debug\WPF_MVVM.Properties.Resources.resources
+D:\Study\practice2022\WPF_MVVM\obj\Debug\WPF_MVVM.csproj.GenerateResource.cache
+D:\Study\practice2022\WPF_MVVM\obj\Debug\WPF_MVVM.csproj.CoreCompileInputs.cache
+D:\Study\practice2022\WPF_MVVM\obj\Debug\WPF_MVVM.exe
+D:\Study\practice2022\WPF_MVVM\obj\Debug\WPF_MVVM.pdb
+D:\Study\Учебная практика\кузнецов\WPF_MVVM\bin\Debug\WPF_MVVM.exe.config
+D:\Study\Учебная практика\кузнецов\WPF_MVVM\bin\Debug\WPF_MVVM.exe
+D:\Study\Учебная практика\кузнецов\WPF_MVVM\bin\Debug\WPF_MVVM.pdb
+D:\Study\Учебная практика\кузнецов\WPF_MVVM\obj\Debug\WPF_MVVM.csproj.AssemblyReference.cache
+D:\Study\Учебная практика\кузнецов\WPF_MVVM\obj\Debug\WPF_MVVM.csproj.SuggestedBindingRedirects.cache
+D:\Study\Учебная практика\кузнецов\WPF_MVVM\obj\Debug\MainWindow.baml
+D:\Study\Учебная практика\кузнецов\WPF_MVVM\obj\Debug\MainWindow.g.cs
+D:\Study\Учебная практика\кузнецов\WPF_MVVM\obj\Debug\App.g.cs
+D:\Study\Учебная практика\кузнецов\WPF_MVVM\obj\Debug\WPF_MVVM_MarkupCompile.cache
+D:\Study\Учебная практика\кузнецов\WPF_MVVM\obj\Debug\WPF_MVVM.g.resources
+D:\Study\Учебная практика\кузнецов\WPF_MVVM\obj\Debug\WPF_MVVM.Properties.Resources.resources
+D:\Study\Учебная практика\кузнецов\WPF_MVVM\obj\Debug\WPF_MVVM.csproj.GenerateResource.cache
+D:\Study\Учебная практика\кузнецов\WPF_MVVM\obj\Debug\WPF_MVVM.csproj.CoreCompileInputs.cache
+D:\Study\Учебная практика\кузнецов\WPF_MVVM\obj\Debug\WPF_MVVM.exe
+D:\Study\Учебная практика\кузнецов\WPF_MVVM\obj\Debug\WPF_MVVM.pdb
